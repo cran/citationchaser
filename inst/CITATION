@@ -1,0 +1,16 @@
+citHeader("To cite citationchaser in publications, please use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "citationchaser: An R package and Shiny app for forward and backward citations chasing in academic searching",
+  author   = "Neal R Haddaway, Matthew J Grainger, and Charles T Gray",
+  journal  = "Zenodo",
+  year     = "2022",
+  url      = "https://github.com/nealhaddaway/citationchaser",
+  doi      = "10.5281/zenodo.4543513",
+  textVersion = paste(
+  "Neal R Haddaway, Matthew J Grainger, and Charles T Gray (2022).",
+  "citationchaser: An R package and Shiny app for forward and backward citations chasing in academic searching",
+  "Zenodo. https://doi.org/10.5281/zenodo.4543513"
+  )
+)
